@@ -1,3 +1,11 @@
-body.tv-screen-bg {
-background: none !important;
+body {
+background-color: transparent !important;
+}
+
+body.tv-screen-bg.web.v100 {
+background-color: transparent !important;
+}
+
+body.body.tv-screen-bg.web.v100 {
+background-color: transparent !important;
 }
